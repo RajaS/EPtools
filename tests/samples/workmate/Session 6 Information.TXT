@@ -1,0 +1,64 @@
+NAME=JohnDoe
+ID #=A-123
+Date=24/09/2024
+Time=08:59:25
+SAMPLE RATE=2000 Hz
+SIGNAL RESOLUTION=78 nV/LSB
+I.Session 6 - Page 1.1.TXT,1,47,.5  Hz,100 Hz,White,ECG,,
+II.Session 6 - Page 1.2.TXT,1,140,.5  Hz,100 Hz,White,ECG,,
+III.Session 6 - Page 1.3.TXT,1,233,.5  Hz,100 Hz,White,ECG,,
+aVR.Session 6 - Page 1.4.TXT,1,326,.5  Hz,100 Hz,White,ECG,,
+aVL.Session 6 - Page 1.5.TXT,1,419,.5  Hz,100 Hz,White,ECG,,
+aVF.Session 6 - Page 1.6.TXT,1,512,.5  Hz,100 Hz,White,ECG,,
+V1.Session 6 - Page 1.7.TXT,1,605,.5  Hz,100 Hz,White,ECG,,
+V2.Session 6 - Page 1.8.TXT,1,698,.5  Hz,100 Hz,White,ECG,,
+V3.Session 6 - Page 1.9.TXT,1,791,.5  Hz,100 Hz,White,ECG,,
+V5.Session 6 - Page 1.10.TXT,1,884,.5  Hz,100 Hz,White,ECG,,
+V6.Session 6 - Page 1.11.TXT,1,936,.5  Hz,100 Hz,White,ECG,,
+RA.Session 6 - Page 1.12.TXT,1,989,30 Hz,100 Hz,Lt Red,JBox,12,
+I.Session 6 - Page 2.1.TXT,2,47,.5  Hz,100 Hz,White,ECG,,-
+aVF.Session 6 - Page 2.2.TXT,2,140,.5  Hz,100 Hz,White,ECG,,
+V1.Session 6 - Page 2.3.TXT,2,233,.5  Hz,100 Hz,White,ECG,,
+RA 1-2.Session 6 - Page 2.4.TXT,2,349,30 Hz,500 Hz,Lt Cyan,JBox,12,
+CS 9-10.Session 6 - Page 2.5.TXT,2,512,30 Hz,300 Hz,Lt Green,JBox,40,39
+C 7-8.Session 6 - Page 2.6.TXT,2,605,30 Hz,300 Hz,Lt Green,JBox,38,37
+C 5-6.Session 6 - Page 2.7.TXT,2,698,30 Hz,300 Hz,Lt Green,JBox,36,35
+C 3-4.Session 6 - Page 2.8.TXT,2,791,30 Hz,300 Hz,Lt Green,JBox,34,33
+CS 1-2.Session 6 - Page 2.9.TXT,2,884,30 Hz,300 Hz,Lt Green,JBox,32,31
+RV d.Session 6 - Page 2.10.TXT,2,977,30 Hz,200 Hz,Lt Red,JBox,12,11
+I.Session 6 - Page 3.1.TXT,3,24,.5  Hz,100 Hz,White,ECG,,-
+aVF.Session 6 - Page 3.2.TXT,3,73,.5  Hz,100 Hz,White,ECG,,
+V1.Session 6 - Page 3.3.TXT,3,122,.5  Hz,100 Hz,White,ECG,,
+ABL d.Session 6 - Page 3.4.TXT,3,171,30 Hz,300 Hz,Yellow,JBox,52,
+ABL p.Session 6 - Page 3.5.TXT,3,219,30 Hz,300 Hz,Yellow,JBox,54,53
+RA  19-20.Session 6 - Page 3.6.TXT,3,268,30 Hz,300 Hz,Lt Cyan,JBox,50,49
+RA  17-18.Session 6 - Page 3.7.TXT,3,317,30 Hz,300 Hz,Lt Cyan,JBox,48,47
+RA  15-16.Session 6 - Page 3.8.TXT,3,366,30 Hz,300 Hz,Lt Cyan,JBox,46,45
+RA  13-14.Session 6 - Page 3.9.TXT,3,414,30 Hz,300 Hz,Lt Cyan,JBox,44,43
+RA  11-12.Session 6 - Page 3.10.TXT,3,463,30 Hz,300 Hz,Lt Cyan,JBox,42,41
+RA  9-10.Session 6 - Page 3.11.TXT,3,512,30 Hz,300 Hz,Lt Cyan,JBox,40,39
+RA  7-8.Session 6 - Page 3.12.TXT,3,561,30 Hz,300 Hz,Lt Cyan,JBox,38,37
+RA  5-6.Session 6 - Page 3.13.TXT,3,610,30 Hz,300 Hz,Lt Cyan,JBox,36,35
+RA 3-4.Session 6 - Page 3.14.TXT,3,658,5  Hz,500 Hz,Lt Cyan,JBox,34,33
+RA 1-2.Session 6 - Page 3.15.TXT,3,707,30 Hz,500 Hz,Lt Cyan,JBox,12,11
+CS 9-10.Session 6 - Page 3.16.TXT,3,756,30 Hz,300 Hz,Lt Green,JBox,40,39
+CS 7-8.Session 6 - Page 3.17.TXT,3,805,30 Hz,300 Hz,Lt Green,JBox,28,27
+CS 5-6.Session 6 - Page 3.18.TXT,3,853,30 Hz,300 Hz,Lt Green,JBox,26,25
+CS 3-4.Session 6 - Page 3.19.TXT,3,902,30 Hz,300 Hz,Lt Green,JBox,24,23
+CS 1-2.Session 6 - Page 3.20.TXT,3,951,30 Hz,300 Hz,Lt Green,JBox,32,31
+RV d.Session 6 - Page 3.21.TXT,3,1000,30 Hz,200 Hz,Lt Red,JBox,12,11
+I.Session 6 - Page 7.1.TXT,7,34,.5  Hz,100 Hz,White,ECG,,-
+II.Session 6 - Page 7.2.TXT,7,102,.5  Hz,100 Hz,White,ECG,,
+III.Session 6 - Page 7.3.TXT,7,171,.5  Hz,100 Hz,White,ECG,,
+aVR.Session 6 - Page 7.4.TXT,7,239,.5  Hz,100 Hz,White,ECG,,
+aVL.Session 6 - Page 7.5.TXT,7,307,.5  Hz,100 Hz,White,ECG,,
+aVF.Session 6 - Page 7.6.TXT,7,375,.5  Hz,100 Hz,White,ECG,,
+V1.Session 6 - Page 7.7.TXT,7,444,.5  Hz,100 Hz,White,ECG,,
+V2.Session 6 - Page 7.8.TXT,7,512,.5  Hz,100 Hz,White,ECG,,
+V3.Session 6 - Page 7.9.TXT,7,580,.5  Hz,100 Hz,White,ECG,,
+V4.Session 6 - Page 7.10.TXT,7,649,.5  Hz,100 Hz,White,ECG,,
+V5.Session 6 - Page 7.11.TXT,7,717,.5  Hz,100 Hz,White,ECG,,
+V6.Session 6 - Page 7.12.TXT,7,785,.5  Hz,100 Hz,White,ECG,,
+CS 9-10.Session 6 - Page 7.13.TXT,7,853,30 Hz,300 Hz,Lt Green,JBox,20,
+RV d.Session 6 - Page 7.14.TXT,7,922,30 Hz,300 Hz,Lt Red,JBox,12,11
+STIM.Session 6 - Page 7.15.TXT,7,990,DC,200 Hz,Lt Red,Stim,,-
